@@ -1,2 +1,2 @@
 # CNU
-Sample Repo
+Sample Repository
